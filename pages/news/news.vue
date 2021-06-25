@@ -1,6 +1,6 @@
 <template>
 	<view>
-	首页
+		资讯
 	</view>
 </template>
 
@@ -8,18 +8,15 @@
 	export default {
 		data() {
 			return {
-
+				
 			}
 		},
-		onLoad() {
-
-		},
 		methods: {
-
+			
 		}
 	}
 </script>
 
-<style scoped>
+<style>
 
 </style>
